@@ -1,1 +1,2 @@
-# code-refactor
+# code-refactor has to do with restructuring an existing body of code. one of the important take in code refactor is web accessibility which makes exisitng webpage to make it accessible. It also has to do with styles of a web page to make it look cleaner and approachable. In order to reach out to clients, code-refactor makes it much easier and relatable so that it booms the marketing industry to next level. 
+
